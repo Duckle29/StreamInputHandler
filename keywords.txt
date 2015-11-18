@@ -1,0 +1,2 @@
+SerialInputHandler	KEYWORD1
+readSerialBytes	KEYWORD2
