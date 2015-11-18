@@ -1,9 +1,7 @@
 /*
-  CoreScanner.h -
-  Library for scanning the switches of a 6 switch,
-  6 LED PCB for WASDkeyboards, keysampler.
+  StreamInputHandler.h -
 
-  Created by Mikkel DBJ, 2015-10-23
+  Created by Mikkel DBJ, 2015-11-18
   This file and the header file, are lsicenced under MIT license
 */
 
